@@ -73,7 +73,8 @@ Users receive immediate visual and auditory feedback while completing the requir
 ---
 
 ## Screenshots
-![Protoype Video](Screenshots/Prototype.mp4)
+
+https://github.com/user-attachments/assets/099ad556-bac4-4e91-b29c-f69d785da766
 
 ![Sensor](Screenshots/Sensor.jpg)
 
