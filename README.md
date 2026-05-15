@@ -73,6 +73,8 @@ Users receive immediate visual and auditory feedback while completing the requir
 ---
 
 ## Screenshots
+![Protoype Video](Screenshots/Prototype.mp4)
+
 ![Sensor](Screenshots/Sensor.jpg)
 
 ![Prototype](Screenshots/Box.jpg)
